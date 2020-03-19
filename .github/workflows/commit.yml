@@ -1,0 +1,33 @@
+- name: HTML5 Validator
+  uses: Cyb3r-Jak3/html5validator-action@v0.4
+  with:
+    # Path of the files to test
+    root: # default is .
+    # Extra arguments to test with
+    extra: # optional
+    # Format for logging output. Valid values: gnu,xml,json,text
+    format: # optional
+    # Logging Level. Valid values: DEBUG, INFO, WARNING. Default: WARNING
+    log_level: # optional, default is WARNING
+    # Checks css as well
+    css: # optional
+    # Flag that increase verbose output only used for troubleshooting the action.
+    action_debug: # optional
+    
+- name: HTMLProofer
+  uses: chabad360/htmlproofer@v1.1
+  with:
+    # The directory to scan
+    directory: 
+    # HTMLProofer options
+    arguments: # optional
+    
+  - name: HTML Preview
+  uses: pavi2410/html-preview-action@v1a
+  with:
+    # The message to display on PR comment
+    msg: # default is Click here to preview HTML page in browser
+    # The HTML file you want to preview
+    html_file: # default is index.html
+    # GitHub Token
+    gh_token: # default is ${{ github.token }}
