@@ -1,4 +1,4 @@
-# jitsi.rocks Website  & Ressources
+# jitsi.rocks Website & Resources
 
 
 ## Setup
@@ -28,8 +28,8 @@ I made this page in a hurry.
 Feel free to contribute.
 
 ### Working with a Datacenter / ISP?
-If you're working for a Datacenter /  ISP  /  Carrier and you've got some Ressources spare, hook me up.
-More Ressources are better. ;)
+If you're working for a Datacenter /  ISP  /  Carrier and you've got some resources spare, hook me up.
+More resources are better. ;)
 
 ##  Contact
 
