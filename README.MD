@@ -1,4 +1,7 @@
 # jitsi.rocks Website & Resources
+[![GitHub stars](https://img.shields.io/github/stars/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/issues)
+[![GitHub forks](https://img.shields.io/github/forks/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/network)
 
 
 ## Setup
