@@ -3,6 +3,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/issues)
 [![GitHub forks](https://img.shields.io/github/forks/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/network)
 
+Auto Staging: https://staging.jitsi.rocks @ branch "staging"
+Auto deploy: https://jitsi.rocks @ branch "master"
 
 ## Setup
 ### Jitsi Instances
