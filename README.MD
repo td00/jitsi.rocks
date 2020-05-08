@@ -1,4 +1,7 @@
 # jitsi.rocks Website & Resources
+[![GitHub stars](https://img.shields.io/github/stars/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/issues)
+[![GitHub forks](https://img.shields.io/github/forks/td00/jitsi.rocks)](https://github.com/td00/jitsi.rocks/network)
 
 
 ## Setup
@@ -11,8 +14,8 @@ Just plain HTML, CSS & JS. No PHP.
 Special thanks to HTML5UP!
 ### Randomizer
 Some php script (randomserver/index.php).
-Has an array ("$urls") and an array_rand ("$url").
-It then forms "$forwardedurl" from the array and put's the variable into the Forwarding string.
+Has an array (`$urls`) and an array_rand (`$url`).
+It then forms `$forwardedurl` from the array and put's the variable into the Forwarding string.
 Quick and dirty, but cheaper then an F5 appliance. ;)
 
 ## How To Contribute
@@ -36,13 +39,13 @@ More resources are better. ;)
 You can contact me via $Plattform
 
 ### Twitter
-https://twitter.com/_td00_
+[https://twitter.com/_td00_](https://twitter.com/_td00_)
 
 ### Mastodon
-https://chaos.social/@td00
+[https://chaos.social/@td00](https://chaos.social/@td00)
 
 ### E-Mail
-wtf@jitsi.rocks
+[wtf@jitsi.rocks](mailto:wtf@jitsi.rocks)
 
 ## More Infos / Special Thanks
 
